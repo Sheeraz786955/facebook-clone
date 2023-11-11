@@ -17,7 +17,7 @@ export default function Home() {
         <span className='text-blue-400 text-center my-2 cursor-pointer hover:underline'>Forget Password</span>
         <hr className='my-2'/>
         <Button2/>
-        <span className='absolute bottom-64 text-sm px-8' ><span className='font-bold hover:underline cursor-pointer'>Create a Page</span> for a celebrity, brand or business.</span>
+        
       </div>
       </div>
     </main>
